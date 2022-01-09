@@ -1,2 +1,2 @@
 # B75
- Word Up
+LC Blind 75 Curated Collection
