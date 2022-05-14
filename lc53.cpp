@@ -1,8 +1,5 @@
-#include <algorithm>
+#include <bits/stdc++.h>
 #include <iostream>
-#include <limits.h>
-#include <stdio.h>
-#include <vector>
 using namespace std;
 int maxSubArray(vector<int> &nums) {
   int sz = nums.size();
@@ -18,4 +15,7 @@ int maxSubArray(vector<int> &nums) {
   return max2;
 }
 
-int main(int argc, char const *argv[]) { return 0; }
+int main(int argc, char const *argv[]) {
+  cout << "Hello" << endl;
+  return 0;
+}
